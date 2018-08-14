@@ -10,6 +10,13 @@
         "loginId": "1758991",
         "subfolder": "\/project",
         "firstpartycookies": true,
-        "cookiedomain": "tvpage.com"
+        "cookiedomain": "tvpage.com",
+        "player": {
+            "playback": {
+                "autoplay": true,
+                "autonext": true,
+                "preload": true
+            }
+        }
     }
 }
